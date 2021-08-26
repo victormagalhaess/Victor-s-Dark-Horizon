@@ -1,0 +1,21 @@
+{
+    "name": "victor-s-dark-horizon",
+    "displayName": "Victor's Dark Horizon",
+    "description": "Fork of Dark Horizon color theme with my personnal customizations",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Victor's Dark Horizon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Victor's Horizon-color-theme.json"
+            }
+        ]
+    }
+}
