@@ -9,6 +9,11 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/victormagalhaess/Victor-s-Dark-Horizon"
+      },
+    "icon": "VictorsDarkHorizon.png",
     "contributes": {
         "themes": [
             {
